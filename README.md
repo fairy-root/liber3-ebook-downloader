@@ -1,6 +1,6 @@
 # Libre3 ebook downloader
 
-**ebook-downloader** is a reverse engineered API and a Python-based tool that searches for ebooks on **[Liber3]**(https://liber3.eth.limo/), filters the results based on language and file format, and downloads the selected ebooks. The tool uses a configuration file (`config.json`) to persist user preferences. If no config file is found, the user is prompted to set their filters. The user may specify `"all"` for either filter to disable filtering for that category.
+**ebook-downloader** is a reverse engineered API and a Python-based tool that searches for ebooks on [Liber3](https://liber3.eth.limo/), filters the results based on language and file format, and downloads the selected ebooks. The tool uses a configuration file (`config.json`) to persist user preferences. If no config file is found, the user is prompted to set their filters. The user may specify `"all"` for either filter to disable filtering for that category.
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 - **Python:** 3.6 or later  
 - **Python Libraries:** 
-    - **[requests]**(https://pypi.org/project/requests/)  
+    - [requests](https://pypi.org/project/requests/)  
 - **Other:** 
     - Internet connectivity
 
